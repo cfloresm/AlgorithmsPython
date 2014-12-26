@@ -1,4 +1,4 @@
-### Developed by René Mariano Sanabria
+### Developed by Rene Mariano Sanabria
 ### Modulo menu.py
 #Se importan los modulos y bibliotecas a utilizar
 import sys
